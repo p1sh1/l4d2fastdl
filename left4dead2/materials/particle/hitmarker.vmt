@@ -1,0 +1,22 @@
+SpriteCard
+{
+$basetexture "particle/hitmarker"
+
+$translucent 1
+$additive 1
+$vertexalpha 1
+$vertexcolor 1
+
+$ignorez	1
+
+$overbrightfactor 6
+//$startfadesize 0.6
+//$endfadesize 0.8
+
+$blendframes 1
+$minsize 0.04
+//$maxsize 1
+
+//"GPU<2?$startfadeout" 0.4
+//"GPU<2?$endfadeout" 0.6
+}
